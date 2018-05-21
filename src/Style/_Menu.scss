@@ -1,0 +1,9 @@
+header{
+    .nav-link{
+        color: #000;
+        &.active, &:hover{
+            color: white;
+            background-color: darkcyan;
+        }
+    }
+}
