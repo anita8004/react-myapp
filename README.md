@@ -62,7 +62,7 @@ yarn add prop-types
 
 2. 輔助套件
 
- - react 相關快捷鍵
+ - react 相關提示
 
    套件名稱：React-Native/React/Redux snippets for es6/es7
 
